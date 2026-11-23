@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encelife</title>
+</head>
+<body>                                                    
+    <h1 style="text-align:start; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:100px;">Encelife</h1>
+    <!--Creates Title-->
+    <h2 style="text-align:start; font-family:'Times New Roman', Times, serif; font-size:60px;">What happens when you mix a hidden ocean, essential chemical ingredients, and the right environmental conditions? Encelife is on a mission to find out!</h2>
+    <!--Tag Line-->                                        
+    <body style="background-color:dimgray;"></body>
+    <header>
+        <nav class="navbar">
+          <a href="#Recipe">Recipe</a>
+          <a href="#Mission">Mission</a>
+          <a href="#Ingredients">Space</a>
+          <a class=""
+          
+        
+    </header>
+</body>
+</html>
